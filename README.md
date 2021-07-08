@@ -1,9 +1,12 @@
 # Learning-Leetcode
-My coding exercise record.\n
+My coding exercise record.
+
 Possibly contain a better approach I search online as reference/comparison.
+
 The exercise order and explaination come from: https://github.com/youngyangyang04/leetcode-master and some other websites. This record is only for learning.
 
 1. Array
+
   1.1 Sample: [27] Remove Element
   1.2 Exercise 
     [26] 删除排序数组中的重复项
