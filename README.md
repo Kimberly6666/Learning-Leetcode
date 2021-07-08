@@ -1,7 +1,7 @@
 # Learning-Leetcode
-# My coding exercise record.
-# Possibly contain a better approach I search online as reference/comparison.
-# The exercise order and explaination come from: https://github.com/youngyangyang04/leetcode-master and some other websites. This record is only for learning.
+My coding exercise record.
+Possibly contain a better approach I search online as reference/comparison.
+The exercise order and explaination come from: https://github.com/youngyangyang04/leetcode-master and some other websites. This record is only for learning.
 
 1. Array
   1.1 Sample: [27] Remove Element
