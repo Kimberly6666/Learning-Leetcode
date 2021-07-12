@@ -1,6 +1,6 @@
 # --------------------------------------
 #! /usr/bin/python
-# File: ToBegin.py
+# File: 7. Reverse Integer.py
 # Author: Kimberly Gao
 
 # My solution: (Run time: 28ms)
