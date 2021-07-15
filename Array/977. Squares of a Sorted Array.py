@@ -1,7 +1,7 @@
 # --------------------------------------
 #! /usr/bin/python
 # File: 977. Squared of a Sorted Array.py
-# Author: Kimberly Gao
+# Author: Kimberly Gao 
 
 # My solution: (Run time: 132ms) (from website)
 # Memory Usage: 15.6 MB
