@@ -10,10 +10,13 @@
     - [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Remove Duplicates from Sorted Array](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)    
     - [283](https://leetcode.com/problems/move-zeroes/) [Move Zeroes](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/283.%20Move%20Zeros.py)     
     - [844](https://leetcode.com/problems/backspace-string-compare/) [Backspace String Compare]()   
-    - [977](https://leetcode.com/problems/squares-of-a-sorted-array/) [Squares of a Sorted Array](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/977.%20Squares%20of%20a%20Sorted%20Array.py)  
+    - [977](https://leetcode.com/problems/squares-of-a-sorted-array/) [*Squares of a Sorted Array](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/977.%20Squares%20of%20a%20Sorted%20Array.py)  
     - [344](https://leetcode.com/problems/reverse-string/) [Reverse String](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/344.%20Reverse%20String.py)  
     
  2. [Binary search:](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)  
     - [704](https://leetcode.com/problems/binary-search/) [Binary Search](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/704.%20Binary%20Search.py)
-    - [35](https://leetcode.com/problems/search-insert-position/) [Search Insert Position]()
-    - []() []()
+    - [35](https://leetcode.com/problems/search-insert-position/) [Search Insert Position](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/35.%20Search%20Insert%20Position.py)  
+    - [69](https://leetcode.com/problems/sqrtx/) [*Sqrt(x)](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/69.%20Sqrt(x).py)   
+    - [367](https://leetcode.com/problems/valid-perfect-square/) [Valid Perfect Square](https://github.com/Kimberly6666/Learning-Leetcode/blob/main/Array/367.%20Valid%20Perfect%20Square.py)   
+    - [34]() 
+
