@@ -59,3 +59,13 @@ class Solution:
     def searchInsert(self, N: List[int], t: int) -> int:
     	for i,n in enumerate(N+[math.inf]):
     		if n >= t: return i
+
+# Approach 6: (Other's solution. Only for Python.)
+class Solution:
+    def searchInsert(self, N: List[int], t: int) -> int:
+		if target in nums:
+            return nums.index(target)
+        else:
+            nums.append(target)
+            nums.sort()
+            return nums.index(target)
