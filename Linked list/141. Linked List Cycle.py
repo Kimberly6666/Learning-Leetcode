@@ -15,17 +15,12 @@ Version: 0.1
 
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
-        if head == None and head.next == None:
+        if head == None or head.next == None:
             return False
         slow, fast = head, head
         while(fast != None and fast.next != None):
-            temp = head
-            if temp == fast:
-                return True
-            while(True):
-                fast = fast.next
-                temp = temp.next
-                if fast == temp:
-                    break
-            return True
+            fast = fast.next.next
+            slow = slow.next
+            if fast == slow: # two pointers meet
+                    return True
         return False
