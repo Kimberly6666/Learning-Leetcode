@@ -15,7 +15,9 @@ Version: 0.1
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap={}
+        hashmap={}.  
+        # i.e.: hashmap = {num1:index1, num2:index2, num3:index3,...}
+        
         for ind,num in enumerate(nums):
             hashmap[num] = ind
         for i,num in enumerate(nums):
